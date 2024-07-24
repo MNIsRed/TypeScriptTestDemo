@@ -1,3 +1,0 @@
-interface A{
-    c:number
-}
