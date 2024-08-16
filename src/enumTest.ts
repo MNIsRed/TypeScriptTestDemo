@@ -1,3 +1,4 @@
+import 'tsx'
 enum Platforms{
     mi,
     huawei,
