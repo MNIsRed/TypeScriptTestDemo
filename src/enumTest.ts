@@ -1,4 +1,5 @@
-enum Platforms {
+import 'tsx'
+enum Platforms{
     mi,
     huawei,
     oppo,
